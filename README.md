@@ -36,6 +36,13 @@ An innovative project designed to simplify nutrition and diet planning using a b
 
 ---
 
+## 🔗 Figma Links  
+
+- **Figma Prototype**: [bit.ly/NutriTrackPrototype](https://bit.ly/NutriTrackPrototype)  
+- **Figma UI Design**: [bit.ly/NutriTrackFigmaUI](https://bit.ly/NutriTrackFigmaUI)  
+
+---
+
 ## 🎯 Goals  
 
 To provide a comprehensive tool that empowers users to manage their nutrition effectively through data-driven insights and user-friendly interfaces.  
